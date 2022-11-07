@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 # Hello, I am Rana Mujtaba and a junior at DePauw majoring in CS.
 I am Web Development enthusiast and a React fanatic. I am currently looking for internship oppurtunities for the summer of 2023.
