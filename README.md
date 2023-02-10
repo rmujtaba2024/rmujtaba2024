@@ -7,4 +7,4 @@ Looking for software engineering internships!
 
 Contact @ rmujtaba_2024@depauw.edu \
 Linkedin @ https://www.linkedin.com/in/rana-mujtaba-a25404178/              
-Portfolio @ https://www.ranamujtaba.com
+Portfolio @ https://ranamujtaba.netlify.app
