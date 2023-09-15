@@ -1,8 +1,8 @@
 
 # Hello, welcome to my Github!! 
-Junior @ DePauw - CS Major.             
+Senior @ DePauw - CS Major.             
 I have been programming for 5+ years. \
-Looking for software engineering internships! 
+Currently looking for software engineering positions
         
 
 Contact @ rmujtaba_2024@depauw.edu \
